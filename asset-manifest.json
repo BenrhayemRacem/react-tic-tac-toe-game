@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BenrhayemRacem/react-tic-tac-toe-game/static/css/main.282bd2a1.chunk.css",
-    "main.js": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/main.067ab1a4.chunk.js",
-    "main.js.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/main.067ab1a4.chunk.js.map",
+    "main.css": "/BenrhayemRacem/react-tic-tac-toe-game/static/css/main.b2ee5259.chunk.css",
+    "main.js": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/main.5ff581d2.chunk.js",
+    "main.js.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/main.5ff581d2.chunk.js.map",
     "runtime-main.js": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/runtime-main.1a4240b0.js",
     "runtime-main.js.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/runtime-main.1a4240b0.js.map",
     "static/js/2.17a013c3.chunk.js": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/2.17a013c3.chunk.js",
     "static/js/2.17a013c3.chunk.js.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/2.17a013c3.chunk.js.map",
     "index.html": "/BenrhayemRacem/react-tic-tac-toe-game/index.html",
-    "static/css/main.282bd2a1.chunk.css.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/css/main.282bd2a1.chunk.css.map",
+    "static/css/main.b2ee5259.chunk.css.map": "/BenrhayemRacem/react-tic-tac-toe-game/static/css/main.b2ee5259.chunk.css.map",
     "static/js/2.17a013c3.chunk.js.LICENSE.txt": "/BenrhayemRacem/react-tic-tac-toe-game/static/js/2.17a013c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a4240b0.js",
     "static/js/2.17a013c3.chunk.js",
-    "static/css/main.282bd2a1.chunk.css",
-    "static/js/main.067ab1a4.chunk.js"
+    "static/css/main.b2ee5259.chunk.css",
+    "static/js/main.5ff581d2.chunk.js"
   ]
 }
