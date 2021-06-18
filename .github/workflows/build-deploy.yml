@@ -3,10 +3,10 @@ name: Build & deploy
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -28,8 +28,7 @@ jobs:
     - name: Build project
       run: npm run build
     
-    - name: Run tests
-      run: npm run test
+ 
 
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
@@ -41,7 +40,7 @@ jobs:
     name: Deploy
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     
     steps:
     - name: Download artifact
